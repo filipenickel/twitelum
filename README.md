@@ -1,3 +1,3 @@
-# twitelum
+# twittelum
 
-####Projeto feito de twitter, apenas para estudos
+## Projeto twittelum, apenas para estudos
